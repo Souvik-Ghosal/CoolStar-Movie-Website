@@ -1,1 +1,4 @@
-# CoolStar-Movie-Website
+# CoolStar Movie Website
+
+    How To Create Responsive Movie Website Using HTML CSS And jQuery
+
